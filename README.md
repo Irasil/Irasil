@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Irasil/Irasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I am currently doing an apprenticeship at the IBZ Aarau.
+- 🌱 I’m currently learning all sorts of things related to programming.
+- 🤔 I’m looking for help for too many things ;)
+- 💬 Ask me about everything.
+- 📫 How to reach me: simon.stauffer"at"student.ipso.ch
+- ⚡ Fun fact: "The vast majority of our imports come from outside the country." - George W. Bush
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Irasil&theme=blue-green)
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Irasil)
