@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help for too many things ;)
 - 💬 Ask me about everything.
 - 📫 How to reach me: simon.stauffer@student.ipso.ch
-- ⚡ Fun fact: "The vast majority of our imports come from outside the country." - George W. Bush
+- ⚡ www.irasil.ch
 ---
 
 
