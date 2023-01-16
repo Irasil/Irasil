@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help for too many things ;)
 - 💬 Ask me about everything.
 - 📫 How to reach me: simon.stauffer@student.ipso.ch
-- ⚡ www.irasil.ch
+- ⚡ https://irasil.ch
 ---
 
 
