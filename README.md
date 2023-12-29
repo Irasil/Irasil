@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning all sorts of things related to programming.
 - 🤔 I’m looking for help for too many things ;)
 - 💬 Ask me about everything.
-- 📫 How to reach me: simon.stauffer@student.ipso.ch
+- 📫 How to reach me: irasildeveloper@gmail.com
 - ⚡ https://irasil.ch
 ---
 
